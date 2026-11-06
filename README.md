@@ -101,9 +101,11 @@ lib/
 
 Watch the application in action, including navigation, Hero transitions, Riverpod favorite toggles, and dietary filter pipelines:
 
-https://github.com/user-attachments/assets/demo.mp4
 
-> *Replace the link above with the path or URL to your uploaded `demo.mp4` file.*
+
+https://github.com/user-attachments/assets/b579ac0b-3e2c-4176-b9c5-bf34e2b63f7d
+
+
 
 ### Video Demo Walkthrough
 
